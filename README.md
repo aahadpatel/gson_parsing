@@ -18,3 +18,4 @@ home.html and home.css- the user can add events using this page. If any of the f
 Please run on: 1440x1024 resolution
 >>>>>>> 65e6e04f5e4f2434bebcd3bca05220cd38935208
 # homework-3-aahadpatelusc
+# homework-3-aahadpatelusc
